@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1CD3-5DA2
-
- Directory of C:\Users\yashu\Desktop\project
-
-03/02/2023  09:47 AM    <DIR>          .
-03/02/2023  09:47 AM    <DIR>          ..
-03/02/2023  09:47 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  117,975,126,016 bytes free
+changes1
